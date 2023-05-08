@@ -18,5 +18,5 @@
   [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=white&style=for-the-badge&link=https://github.com/centneuf0109)](https://github.com/centneuf0109)
 - **조영준(Frontend)**  
   [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=white&style=for-the-badge&link=https://github.com/yjjo8136)](https://github.com/yjjo8136)
-  - **구진희(Designer)**  
+- **구진희(Designer)**  
   kjh1426677@naver.com
