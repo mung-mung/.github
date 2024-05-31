@@ -1,8 +1,10 @@
 # mung mung
 **Dog owner & walker matching platform**
 
-## 개발팀원
+## 테스트 서버
+[https://mung-mung-test.o-r.kr/](https://mung-mung-test.o-r.kr/)
 
+## 개발팀원
 - **김백규**  
   [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=white&style=for-the-badge&link=https://github.com/baekgyu-kim)](https://github.com/baekgyu-kim)
 - **성우현**  
