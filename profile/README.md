@@ -1,7 +1,8 @@
 # mung mung
 **Dog owner & walker matching platform**
 
-## 테스트 서버
+## 서버
+### 개발용 서버
 [https://mung-mung-test.o-r.kr/](https://mung-mung-test.o-r.kr/)
 
 ## 개발팀원
