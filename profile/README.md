@@ -12,11 +12,11 @@ Owners can register their dogs and post job articles specifically for their pets
 
 ## Team Member
 ### Mar.2024 - Jun.2024
-> #### Backend
-> - [**김백규**](https://github.com/baekgyu-kim)
-> - [**성우현**](https://github.com/whsung0330)
-> - [**현주헌**](https://github.com/joohunhyun)
-> - [**김석민**](https://github.com/min0219)
->#### Frontend
-> - [**문창일**](https://github.com/cimkoreauniv)
-> - [**황덕근**](https://github.com/SkeletonK10)
+#### Backend
+- [**김백규**](https://github.com/baekgyu-kim)
+- [**성우현**](https://github.com/whsung0330)
+- [**현주헌**](https://github.com/joohunhyun)
+- [**김석민**](https://github.com/min0219)
+#### Frontend
+- [**문창일**](https://github.com/cimkoreauniv)
+- [**황덕근**](https://github.com/SkeletonK10)
